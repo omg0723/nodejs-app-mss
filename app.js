@@ -85,7 +85,7 @@ app.get('/redirect', function(req, res) {
     
  
     app.listen(app.get('port'), function() {
-        console.log("Node JS app is running at http://172.17.49.101:" + app.get('port') +"/mithuntechnologies");
+        console.log("Node JS app is running at http://172.17.49.101:" + app.get('port') +"/omgupta");
       })
     
 
